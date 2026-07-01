@@ -12,7 +12,7 @@
 - Адаптивный дизайн
 
 ## Демо
-https://dgt20u186.github.io/Image-Slider-Project/ – вставьте свою ссылку после публикации.
+https://dgt20u186.github.io/Image-Slider-Project/
 
 ## Запуск локально
 Просто откройте `index.html` в браузере или используйте Live Server.
